@@ -1,5 +1,7 @@
 # Web Battleship
  A  React Web app singleplayer version of Battleship.
+ 
+ ![Battleship](https://cdn.discordapp.com/attachments/406114988504252419/1064605468372250724/image.png)
 
 #### Rules
 
